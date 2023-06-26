@@ -2,4 +2,4 @@
 
 ## SCC0270 Second Practical Project
 
-<!-- ### ML, Neural Networks and Fraud Detection -->
+### Neural Networks, Convolutional Neural Networks and Image Detection
